@@ -7,12 +7,13 @@ public class RecursionDemo {
 
 	/**
 	 * get the dataList's sum by use the D&C method
+	 * D&C:divide and conquer
 	 * @param dataList
 	 * @return
 	 */
 	public static int sum(List<Integer> dataList) {
 		if (dataList == null) {
-			throw new RuntimeException("the dataList must be not null,please check it!");
+			throw new RuntimeException("the parameter dataList must be not null,please check it!");
 		}
 		
 		//the base condition
