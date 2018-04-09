@@ -1,6 +1,6 @@
 package com.joyner.algorithm.search;
 
-import java.util.Arrays;
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -34,6 +34,7 @@ public class BinarySearch<T extends Comparable<T>> {
 		int searchTimes = 0;
 		
 		while (hight >= low) {
+			searchTimes ++;
 			T guess = dataList.get(mid);
 			if (guess.compareTo(target) == 0) {
 				this.binarySearchResult.setLocation(mid + 1);
@@ -48,15 +49,38 @@ public class BinarySearch<T extends Comparable<T>> {
 				low = mid + 1;
 			}
 			mid = (hight + low) / 2;
-			searchTimes ++;
+			
 		}
 		
 		this.binarySearchResult.setSearchTimes(searchTimes);
 		
 	}
 	
+	private void doBinarySearchByDC(List<T> dataList, T target) {
+		if (dataList.size() == 1) {
+			if (dataList.get(0).compareTo(target) == 0) {
+				System.out.println("find id@!");
+			}
+			return;
+		}
+		T first = dataList.get(0);
+		dataList.remove(0);
+		
+		if (target.compareTo(first) == 0) {
+			System.out.println("find id@!");
+			return;
+		} else {
+			doBinarySearchByDC(dataList,target);
+		}
+		
+	}
+	
 	public static void main(String[] args) {
-		BinarySearch<Integer> s = new BinarySearch<Integer>(Arrays.asList(1,2,3,4,5,6,7,8,9,10),102);
+		List<Integer> data = new ArrayList<Integer>();
+		data.add(1);
+		data.add(2);
+		data.add(50);
+		BinarySearch<Integer> s = new BinarySearch<Integer>(data,1);
 		System.out.println(s.getResult());
 	}
 
