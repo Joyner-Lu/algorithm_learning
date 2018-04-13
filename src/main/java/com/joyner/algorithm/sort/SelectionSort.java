@@ -10,39 +10,18 @@ import java.util.List;
  *
  * @param <T>
  */
-public class SelectionSort<T extends Comparable<T>> {
-	
-	static enum SortType {
-		ASC,DESC;
-	};
+public class SelectionSort<T extends Comparable<T>> extends AbstractSort<T> implements ISort<T> {
 	
 	private List<T> result = new ArrayList<T>();
 	
-	//use this constructor the default SortType is SortType.ASC
-	public SelectionSort(List<T> dataList) {
-		boolean r = doValidate(dataList);
-		if (r) {
-			doSelectionSort(dataList,SortType.ASC);
-		}
-	};
-	
-	public SelectionSort(List<T> dataList,SortType sortType) {
-		boolean r = doValidate(dataList);
-		if (r) {
-			doSelectionSort(dataList,sortType);
-		}
-		
-	};
-
-	//before sorts the arr dovalidation first
-	private boolean doValidate(List<T> dataList) {
-		if (dataList == null || dataList.size() == 0) {
-			return false;
-		}
-		return true;
+	public List<T> doSort(List<T> dataList) {
+		doValidate(dataList);
+		doSelectionSortByAsc(dataList);
+		return result;
 	}
 
-	private void doSelectionSort(List<T> dataList, SortType sortType) {
+	public List<T> doSort(List<T> dataList, SortType sortType) {
+		doValidate(dataList);
 		switch (sortType) {
 		case ASC:
 			doSelectionSortByAsc(dataList);
@@ -53,6 +32,7 @@ public class SelectionSort<T extends Comparable<T>> {
 		default:
 			break;
 		}
+		return result;
 	}
 	
 	private void doSelectionSortByDesc(List<T> dataList) {
@@ -103,7 +83,6 @@ public class SelectionSort<T extends Comparable<T>> {
 			dataList.remove(dataVO.getIndex());
 			result.add(dataVO.getData());
 		}
-			
 		
 	}
 
@@ -119,20 +98,6 @@ public class SelectionSort<T extends Comparable<T>> {
 		return new DataVO(minimumData,index);
 	}
 	
-	public List<T> getResult() {
-		return this.result;
-	}
-
-	public static void main(String[] args) {
-		List<Integer> tt = new ArrayList<Integer>();
-		tt.add(31);
-		tt.add(33);
-		tt.add(2);
-		tt.add(3);
-		tt.add(9);
-		tt.add(10);
-		SelectionSort<Integer> s = new SelectionSort<Integer>(tt,SortType.ASC);
-		System.out.println(s.getResult());
-	}
+	
 
 }
