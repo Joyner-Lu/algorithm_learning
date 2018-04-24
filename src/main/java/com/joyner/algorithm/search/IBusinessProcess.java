@@ -1,6 +1,6 @@
-package com.joyner.algorithm.search.bfs;
+package com.joyner.algorithm.search;
 
-import com.joyner.algorithm.search.bfs.vo.Node;
+import com.joyner.algorithm.search.vo.Node;
 
 public interface IBusinessProcess<T> {
 	

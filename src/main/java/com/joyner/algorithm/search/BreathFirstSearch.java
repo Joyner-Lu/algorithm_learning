@@ -1,4 +1,4 @@
-package com.joyner.algorithm.search.bfs;
+package com.joyner.algorithm.search;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -6,9 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
-import org.apache.commons.lang3.StringUtils;
-
-import com.joyner.algorithm.search.bfs.vo.Node;
+import com.joyner.algorithm.search.vo.Node;
 
 /**
  * breath-first search algorithm

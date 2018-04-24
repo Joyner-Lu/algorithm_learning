@@ -1,4 +1,4 @@
-package com.joyner.algorithm.search.bfs.vo;
+package com.joyner.algorithm.search.vo;
 
 import org.apache.commons.lang3.StringUtils;
 
