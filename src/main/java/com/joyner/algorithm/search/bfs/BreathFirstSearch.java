@@ -6,6 +6,8 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
+import org.apache.commons.lang3.StringUtils;
+
 import com.joyner.algorithm.search.bfs.vo.Node;
 
 /**
@@ -26,7 +28,7 @@ public class BreathFirstSearch<T> {
 		List<Node<T>> neighbors = datas.get(startNode);
 		//push to the queue
 		if (neighbors != null && neighbors.size() > 0) {
-			pushToQueue(neighbors,queue);
+			pushToQueue(neighbors,queue,startNode);
 		}
 		
 		while (!queue.isEmpty()) {
@@ -43,7 +45,7 @@ public class BreathFirstSearch<T> {
 					//get the neighbors of the node and push to the queue
 					neighbors = datas.get(node);
 					if (neighbors != null && neighbors.size() > 0) {
-						pushToQueue(neighbors,queue);
+						pushToQueue(neighbors,queue,node);
 					}
 				}
 			}
@@ -52,9 +54,10 @@ public class BreathFirstSearch<T> {
 		return null;
 	}
 
-	private void pushToQueue(List<Node<T>> neighbors, LinkedList<Node<T>> queue) {
+	private void pushToQueue(List<Node<T>> neighbors, LinkedList<Node<T>> queue,Node<T> currentNode) {
 		for (Node<T> neighbor : neighbors) {
 			queue.push(neighbor);
+			neighbor.setParentNode(currentNode);
 		}
 	}
 

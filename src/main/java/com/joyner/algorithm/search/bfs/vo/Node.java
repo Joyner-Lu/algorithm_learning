@@ -1,5 +1,7 @@
 package com.joyner.algorithm.search.bfs.vo;
 
+import org.apache.commons.lang3.StringUtils;
+
 /**
  * 
  * @author Joyner-Lu
@@ -15,6 +17,8 @@ public class Node<T> {
 
 	private T node;
 	
+	private Node<T> parentNode;
+	
 	public T getNode() {
 		return node;
 	}
@@ -23,7 +27,23 @@ public class Node<T> {
 	}
 	@Override
 	public String toString() {
-		return "Node [node=" + node + "]";
+		String str = "";
+		Node<T> parentNode = getParentNode();
+		str = "Node [node=" + node + ",path:" + node + "-->";
+		while (parentNode != null) {
+			str += parentNode.getNode() + "-->";
+			parentNode = parentNode.getParentNode();
+		}
+		str = StringUtils.removeEnd(str, "-->");
+		str += "]";
+		return str;
+		
+	}
+	public Node<T> getParentNode() {
+		return parentNode;
+	}
+	public void setParentNode(Node<T> parentNode) {
+		this.parentNode = parentNode;
 	}
 	
 	
