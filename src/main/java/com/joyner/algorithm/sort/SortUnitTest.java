@@ -31,7 +31,7 @@ public class SortUnitTest {
 		dataList.add(9);
 		dataList.add(10);
 		QuickSort<Integer> quickSort = SortFactoryManager.getQuickSortInstance();
-		List<Integer> r = quickSort.doSort(dataList,SortType.DESC);
+		List<Integer> r = quickSort.doSort(dataList,SortType.ASC);
 		System.out.println(r);
 
 	}

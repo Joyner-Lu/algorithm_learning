@@ -3,6 +3,8 @@ package com.joyner.algorithm.sort;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.apache.commons.lang3.RandomUtils;
+
 /**
  * quick sort algorithm
  * 
@@ -46,8 +48,9 @@ public class QuickSort<T extends Comparable<T>> extends AbstractSort<T> implemen
 		if (dataList.size() < 2) {
 			return dataList;
 		}
+		int randomIndex = RandomUtils.nextInt(0, dataList.size());
 		// the pivot value
-		T pivot = dataList.get(0);
+		T pivot = dataList.get(randomIndex);
 		List<T> less = new ArrayList<T>();
 		List<T> greater = new ArrayList<T>();
 		for (int i = 1; i < dataList.size(); i++) {
@@ -69,8 +72,9 @@ public class QuickSort<T extends Comparable<T>> extends AbstractSort<T> implemen
 		if (dataList.size() < 2) {
 			return dataList;
 		}
+		int randomIndex = RandomUtils.nextInt(0, dataList.size());
 		// the pivot value
-		T pivot = dataList.get(0);
+		T pivot = dataList.get(randomIndex);
 		List<T> less = new ArrayList<T>();
 		List<T> greater = new ArrayList<T>();
 		for (int i = 1; i < dataList.size(); i++) {
