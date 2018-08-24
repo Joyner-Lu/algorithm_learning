@@ -63,9 +63,9 @@ public class RecursionDemo {
 	
 	public static void main(String[] args) {
 		List<Integer> s = new ArrayList<Integer>();
-		s.add(2);
+		s.add(21);
 		s.add(8);
-		s.add(5);
+		s.add(7);
 		//int sum = sum(s);
 		//System.out.println(sum);
 		
