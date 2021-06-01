@@ -10,6 +10,13 @@ public interface ISort<T extends Comparable<T>> {
 	 * @return
 	 */
 	public List<T> doSort(List<T> dataList);
+
+	/**
+	 * do sort, order by asc
+	 * @param dataArr
+	 * @return
+	 */
+	public T[] doSort(T[] dataArr);
 	
 	/**
 	 * do sort, the sequence of the result is according the parameter sortType

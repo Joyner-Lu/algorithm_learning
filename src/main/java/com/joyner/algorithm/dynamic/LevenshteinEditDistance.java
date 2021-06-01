@@ -66,7 +66,7 @@ public class LevenshteinEditDistance {
     }
 
 
-    public void ditDistancee(String source,String target) {
+    public void editDistancee(String source,String target) {
         if (source == null || target == null) {
             throw new RuntimeException("the parameter must be not null,please check it!");
         }
@@ -207,7 +207,7 @@ public class LevenshteinEditDistance {
 
     public static void main(String[] args) {
         LevenshteinEditDistance levenshteinEditDistance = new LevenshteinEditDistance();
-        levenshteinEditDistance.ditDistancee("abcdef" , "azced");
+        levenshteinEditDistance.editDistancee("silt" , "mill");
     }
 
 

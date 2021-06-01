@@ -13,13 +13,15 @@ import java.util.List;
 public class SelectionSort<T extends Comparable<T>> extends AbstractSort<T> implements ISort<T> {
 	
 	private List<T> result = new ArrayList<T>();
-	
+
+	@Override
 	public List<T> doSort(List<T> dataList) {
 		doValidate(dataList);
 		doSelectionSortByAsc(dataList);
 		return result;
 	}
 
+	@Override
 	public List<T> doSort(List<T> dataList, SortType sortType) {
 		doValidate(dataList);
 		switch (sortType) {

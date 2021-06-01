@@ -11,5 +11,8 @@ public abstract class AbstractSort<T extends Comparable<T>> implements ISort<T> 
 		}
 	}
 
-
+	@Override
+	public T[] doSort(T[] dataArr) {
+		throw new RuntimeException("请在子类实现");
+	}
 }
