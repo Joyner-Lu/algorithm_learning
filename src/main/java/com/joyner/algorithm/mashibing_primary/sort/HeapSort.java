@@ -107,7 +107,7 @@ public class HeapSort {
             int[] copy = ArrUtils.arrCopy(arr);
             heapSort.sort(arr);
             if (!ArrUtils.isAscSorted(arr)) {
-                ArrUtils.printArr(copy);
+                ArrUtils.<Integer>printArr(copy);
                 System.out.println("------------after");
                 ArrUtils.printArr(arr);
                 throw new RuntimeException("fuck you bitch!");

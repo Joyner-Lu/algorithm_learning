@@ -2,6 +2,10 @@ package com.joyner.algorithm.mashibing_primary;
 
 import org.junit.Test;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.function.Consumer;
+
 /**
  * <pre>
  * 随机函数
@@ -17,21 +21,26 @@ import org.junit.Test;
  */
 public class RandomRelation {
 
-    private int testTimes = 10000000;
+    private int testTimes = 100000000;
     private int count = 0;
 
 
     private static final double DOUBLE_UNIT = 0x1.0p-53; // 1.0 / (1L << 53)
 
+    /**
+     * Math.random() 返回： [0, 1)
+     */
     @Test
     public void testMathRandom() {
         for (int i = 0; i < testTimes; i++) {
-            if (Math.random() < 0.3) {
+            if (Math.random() <= 0.3) {
                 count++;
             }
         }
 
         System.out.println((double) count / testTimes);
+        System.out.println(count);
+        System.out.println(testTimes);
 
     }
 
@@ -150,7 +159,10 @@ public class RandomRelation {
 
     public static void main(String[] args) {
         RandomRelation randomRelation = new RandomRelation();
+        List<Integer> list = new ArrayList<>();
+        list.forEach(integer -> {
 
+        });
 
     }
 
@@ -213,5 +225,6 @@ public class RandomRelation {
     private static long next(int i) {
         return 0;
     }
+
 
 }

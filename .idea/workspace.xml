@@ -2,18 +2,24 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/linked_list_practice/LinkListMid.java" line="81" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_master/day01/Code02_AllLessNumSubArray.java" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f11b54fe-9f7b-4323-adb7-c1788799e0bc" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/TwoSum_371.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/dynamic/LevenshteinEditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/dynamic/LevenshteinEditDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/sort/AbstractSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/sort/AbstractSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/sort/ISort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/sort/ISort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/sort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/sort/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/sort/SortUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/sort/SortUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/ReverseBits_190.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/ReverseBits_190.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/vo/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/vo/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/RandomGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/RandomGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/RandomRelation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/RandomRelation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/sort/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/sort/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/joyner/common/util/collection/ArrUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/joyner/common/util/collection/ArrUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/joyner/common/util/collection/ListUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/joyner/common/util/collection/ListUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/joyner/algorithm/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/joyner/algorithm/AppTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,17 +43,20 @@
     <SUITE FILE_PATH="coverage/algorithm_learning$RemoveDuplicatesFromSortedArray_26.ic" NAME="RemoveDuplicatesFromSortedArray_26 Coverage Results" MODIFIED="1610946715038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.joyner.algorithm.leetcode_practice.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/algorithm_learning$Code02_StickersToSpellWord.ic" NAME="Code02_StickersToSpellWord Coverage Results" MODIFIED="1631843705126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.joyner.algorithm.mashibing_primary.dynamic.*</FILTER>
+    </SUITE>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="algorithm_learning" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SmallerEqualBigger.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/linked_list_practice/SmallerEqualBigger.java">
+      <file leaf-file-name="Code01_SlidingWindowMaxArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_master/day01/Code01_SlidingWindowMaxArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2567">
-              <caret line="154" selection-start-line="146" selection-start-column="5" selection-end-line="154" />
+            <state relative-caret-position="799">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,20 +64,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LinkListMid.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/linked_list_practice/LinkListMid.java">
+      <file leaf-file-name="Code02_AllLessNumSubArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_master/day01/Code02_AllLessNumSubArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2057">
-              <caret line="121" column="49" selection-start-line="121" selection-start-column="49" selection-end-line="121" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IsPalindromeList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/linked_list_practice/IsPalindromeList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1938">
-              <caret line="116" column="37" selection-start-line="113" selection-start-column="6" selection-end-line="116" selection-end-column="37" />
+            <state relative-caret-position="1802">
+              <caret line="107" selection-start-line="107" selection-end-line="107" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CopyListWithRandom.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/linked_list_practice/CopyListWithRandom.java">
+      <file leaf-file-name="Code02_AllLessNumSubArrayTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_master/day01/Code02_AllLessNumSubArrayTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1003">
-              <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+            <state relative-caret-position="1428">
+              <caret line="85" column="35" selection-start-line="85" selection-start-column="35" selection-end-line="85" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,20 +88,83 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoLinkedIntersectList.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/linked_list_practice/TwoLinkedIntersectList.java">
+      <file leaf-file-name="RandomRelation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/RandomRelation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2021">
-              <caret line="263" column="29" lean-forward="true" selection-start-line="263" selection-start-column="29" selection-end-line="263" selection-end-column="29" />
+            <state relative-caret-position="2771">
+              <caret line="167" selection-start-line="167" selection-end-line="167" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/vo/Node.java">
+      <file leaf-file-name="MyArrayList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mycollection/MyArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
+            <state relative-caret-position="612">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArrayList.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19992">
+              <caret line="1241" column="29" selection-start-line="1241" selection-start-column="29" selection-end-line="1241" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#6252#6253#0" expanded="true" />
+                <element signature="e#6320#6321#0" expanded="true" />
+                <element signature="e#10189#10190#0" expanded="true" />
+                <element signature="e#10216#10217#0" expanded="true" />
+                <element signature="e#15414#15415#0" expanded="true" />
+                <element signature="e#15459#15460#0" expanded="true" />
+                <element signature="e#24549#24550#0" expanded="true" />
+                <element signature="e#24603#24604#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Consumer.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/function/Consumer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="65" column="5" selection-start-line="62" selection-start-column="59" selection-end-line="65" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="List.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="590" column="12" selection-start-line="590" selection-start-column="12" selection-end-line="590" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RandomGenerator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/RandomGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="706">
+              <caret line="254" column="32" selection-start-line="254" selection-start-column="32" selection-end-line="254" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Math.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Math.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12155">
+              <caret line="771" column="25" selection-start-line="771" selection-start-column="25" selection-end-line="771" selection-end-column="25" />
+              <folding>
+                <element signature="e#32010#32011#0" expanded="true" />
+                <element signature="e#32095#32096#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,35 +180,49 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>lock</find>
-      <find>stateOffset</find>
-      <find>i</find>
-      <find>max_value</find>
-      <find>*</find>
-      <find>put</find>
-      <find>nagaram</find>
-      <find>&quot;</find>
-      <find>size</find>
-      <find>sort</find>
-      <find>public ListNode reverseList(ListNode head) {</find>
-      <find>fifo</find>
-      <find>fi</find>
-      <find>nextDouble</find>
-      <find>seed</find>
-      <find>find</find>
-      <find>插入</find>
-      <find>&gt;&gt; 1</find>
-      <find>进位</find>
-      <find>大</find>
-      <find>Trie</find>
-      <find>midOrDownMidPreNode</find>
+      <find>masherTree</find>
+      <find>.value</find>
+      <find>Node</find>
+      <find>TreeTreeNode</find>
+      <find>全排列</find>
+      <find>BFS</find>
+      <find>my.push</find>
+      <find>heap.add</find>
+      <find>iterator</find>
+      <find>poll</find>
+      <find>peak</find>
+      <find>heapInsert</find>
+      <find>字典</find>
+      <find>黄金</find>
+      <find>898517968</find>
+      <find>s.substring</find>
+      <find>grnrg</find>
+      <find>movedMap</find>
+      <find>return</find>
+      <find>permute</find>
+      <find>updateDequeWhenRightMove</find>
+      <find>conta</find>
+      <find>new Random()</find>
+      <find>t_</find>
+      <find>DEFAULTCAPACITY_EMPTY_ELEMENTDATA</find>
+      <find>ArrayList.</find>
+      <find>grow</find>
+      <find>MAX_ARRAY_SIZE</find>
+      <find>main</find>
+      <find>hugeCapacity</find>
     </findStrings>
     <replaceStrings>
       <replace>temp</replace>
       <replace>'</replace>
       <replace />
       <replace>小</replace>
+      <replace>.val</replace>
+      <replace>TreeNode</replace>
+      <replace>MyArrayList.</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>D:\gitSpace\mashibing_project\algorithm_learning\src\main</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -153,57 +230,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/InsertSort_06.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/BubbleSort_05.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/BinarySearch.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/LocalMinimumValByBinarySearch.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/HashMapDemoTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/vo/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/ReverseDoubleLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/MyStack.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/MyQueue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/BalancedBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/BinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/BinaryTreeLevelOrderTraversal_107.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/PathSum_112.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/common/util/collection/ListUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/PathSumII_113.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/CompareTwoNums.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/MergeSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/FindArrOddNum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/BinaryTreePreorderTraversal_144.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/QueriesOnNumberOfPointsInsideACircle_1828.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/MyRingBuffer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/MyQueueV2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/MyStackV3ByQueue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/MyQueueV3ByStack.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/MergeSortV2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/LessNumberPartition.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/SmallSum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/LessAndEqualAandLargeAreaPartition.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/RandomBox.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/QuikSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/MyCompleteTwoForkTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/MyBigHeap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/sort/HeapSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/MySmallHeap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/sort/Code04_SortArrayDistanceLessK.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/joyner/algorithm/AppTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/union_find/IUnionFind.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/union_find/UnionFindV3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/graph/Kruskal.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/graph/Code05_Prim.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/graph/Code06_Dijkstra.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/graph/DijkstraV2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/myheap/Heap01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Hanoi.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/Permutations_bfs_46.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code04_ReverseStackUsingRecursive.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/ReverseStackUsingRecursive.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/RandomGenerator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/sort/TrieTree.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/sort/TrieTreeForTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/sort/TrieTreeV2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/sort/CountSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/sort/RadixSort.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/sort/RadixSortV1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/sort/RadixSortV2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/linked_list_practice/LinkListMid.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/linked_list_practice/IsPalindromeList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/sort/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code02_PrintAllSubsquences.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/joyner/common/util/collection/ArrUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/linked_list_practice/SmallerEqualBigger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/linked_list_practice/CopyListWithRandom.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/linked_list_practice/TwoLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/vo/Node.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/linked_list_practice/TwoLinkedIntersectList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/Permutations_dfsV3_46.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/PrintAllPermutations.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code06_ConvertToLetterString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/greedy/LessMoneySplitGoldTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/greedy/LessMoneySplitGoldV2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/KnapsackTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code07_Knapsack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code08_CardsInLine.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code09_NQueens.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/common/util/collection/ListUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/NQueens_51.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code09_NQueens_V2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/ReverseBits_190.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code01_RobotWalk.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code08_CardsInLineMemorySearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code08_CardsInLineDpWays.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/RobotWalk_V2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/RobotWalk_dpways.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/dynamic/LongestPalindromicSubstring_5_dp.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/CellDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/dynamic/LongestPalindromicSubstring_5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code02_StickersToSpellWord.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/LongCommonSubStr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code05_PalindromeSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code05_LongCommonSequence.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code06_Coffee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mycollection/Map.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mycollection/MyMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/SuperWashingMachines_517.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_master/Code01_SlidingWindowMaxArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_master/day01/Code01_SlidingWindowMaxArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_master/day01/Code02_AllLessNumSubArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_master/day01/Code02_AllLessNumSubArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mycollection/MyArrayList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/RandomRelation.java" />
       </list>
     </option>
   </component>
@@ -237,6 +314,11 @@
           <item name="algorithm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="algorithm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
       </expand>
       <select />
     </treeState>
@@ -248,10 +330,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="334" />
-    <option name="y" value="283" />
-    <option name="width" value="1936" />
-    <option name="height" value="733" />
+    <option name="x" value="-7" />
+    <option name="width" value="1934" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -261,6 +342,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -268,13 +351,78 @@
               <item name="algorithm_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm_learning" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="joyner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="joyner" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="joyner" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="mashibing_master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="joyner" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="mycollection" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,11 +430,11 @@
     <property name="GO_FMT" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="Arr&#9;FILE&#9;file://D:/Java/projects/algorithm_learning/src/main/java/com/joyner/common/util/collection/ArrUtils.java&#10;chara&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar!/java/lang/Character.class&#10;HEAP&#9;FILE&#9;file://D:/Java/projects/algorithm_learning/src/main/java/com/joyner/algorithm/mashibing_primary/MyBigHeap.java&#10;parti&#9;PSI&#9;JAVA://com.joyner.algorithm.mashibing_primary.LessNumberPartition&#10;qu&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Queue.java&#10;Stack&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Stack.java&#10;stringb&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/StringBuilder.java&#10;String.&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java&#10;Bitset&#9;PSI&#9;JAVA://java.util.BitSet&#10;_94&#9;PSI&#9;JAVA://com.joyner.algorithm.leetcode_practice.BinaryTreeInorderTraversal_94&#10;arraylist&#9;PSI&#9;JAVA://java.util.ArrayList&#10;tree&#9;PSI&#9;JAVA://com.joyner.algorithm.leetcode_practice.SymmetricTree_101&#10;_206&#9;PSI&#9;JAVA://com.joyner.algorithm.leetcode_practice.ReverseList_206&#10;threadpoolex&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;hashmap&#9;PSI&#9;JAVA://java.util.HashMap&#10;_88&#9;PSI&#9;JAVA://com.joyner.algorithm.leetcode_practice.MergeSortedArray_88&#10;concurrent&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;vector&#9;PSI&#9;JAVA://java.util.Vector&#10;concurrenthash&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;abstractq&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer" />
+    <property name="SearchEverywhereHistoryKey" value="random&#9;FILE&#9;file://D:/gitSpace/mashibing_project/algorithm_learning/src/main/java/com/joyner/algorithm/mashibing_primary/RandomGenerator.java&#10;sli&#9;FILE&#9;file://D:/gitSpace/mashibing_project/algorithm_learning/src/main/java/com/joyner/algorithm/mashibing_trainingcamp001/day01/SlidingWindowUtil.java&#10;rando&#9;FILE&#9;file://D:/gitSpace/mashibing_project/algorithm_learning/src/main/java/com/joyner/algorithm/mashibing_primary/RandomGenerator.java&#10;Hasmap&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/HashMap.java&#10;wind&#9;PSI&#9;JAVA://com.joyner.algorithm.mashibing_trainingcamp001.day01.SlidingWindowUtil&#10;子串&#9;null&#9;null&#10;Char&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Character.java&#10;char&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/CharSequence.java&#10;_5&#9;FILE&#9;file://D:/gitSpace/mashibing_project/algorithm_learning/src/main/java/com/joyner/algorithm/leetcode_practice/dynamic/LongestPalindromicSubstring_5.java&#10;190&#9;PSI&#9;JAVA://com.joyner.algorithm.leetcode_practice.ReverseBits_190&#10;46&#9;FILE&#9;file://D:/gitSpace/mashibing_project/algorithm_learning/src/main/java/com/joyner/algorithm/leetcode_practice/Permutations_46.java&#10;dijkstra&#9;PSI&#9;JAVA://com.joyner.algorithm.search.Dijkstra&#10;test&#9;PSI&#9;JAVA://com.joyner.algorithm.AppTest&#10;prio&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;String&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java&#10;Integer&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Integer.java&#10;comparab&#9;PSI&#9;JAVA://java.lang.Comparable&#10;Arr&#9;FILE&#9;file://D:/Java/projects/algorithm_learning/src/main/java/com/joyner/common/util/collection/ArrUtils.java&#10;chara&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar!/java/lang/Character.class&#10;HEAP&#9;FILE&#9;file://D:/Java/projects/algorithm_learning/src/main/java/com/joyner/algorithm/mashibing_primary/MyBigHeap.java&#10;parti&#9;PSI&#9;JAVA://com.joyner.algorithm.mashibing_primary.LessNumberPartition&#10;qu&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Queue.java&#10;Stack&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Stack.java&#10;stringb&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/StringBuilder.java&#10;String.&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java&#10;Bitset&#9;PSI&#9;JAVA://java.util.BitSet&#10;_94&#9;PSI&#9;JAVA://com.joyner.algorithm.leetcode_practice.BinaryTreeInorderTraversal_94&#10;arraylist&#9;PSI&#9;JAVA://java.util.ArrayList&#10;tree&#9;PSI&#9;JAVA://com.joyner.algorithm.leetcode_practice.SymmetricTree_101&#10;_206&#9;PSI&#9;JAVA://com.joyner.algorithm.leetcode_practice.ReverseList_206&#10;threadpoolex&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;hashmap&#9;PSI&#9;JAVA://java.util.HashMap&#10;_88&#9;PSI&#9;JAVA://com.joyner.algorithm.leetcode_practice.MergeSortedArray_88&#10;concurrent&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Collections&#9;PSI&#9;JAVA://java.util.Collections&#10;vector&#9;PSI&#9;JAVA://java.util.Vector&#10;concurrenthash&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;abstractq&#9;PSI&#9;JAVA://java.util.concurrent.locks.AbstractQueuedSynchronizer" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
-    <property name="last_opened_file_path" value="D:/gitSpace/xiaopeng_company/xp-voss-module-helper" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../xiaopeng_company/xp-digital-service-cross" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -296,12 +444,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.joyner.algorithm.mashibing_primary.sort" />
-      <recent name="com.joyner.algorithm.mashibing_primary" />
-      <recent name="com.joyner.algorithm.search" />
+      <recent name="com.joyner.algorithm.leetcode_practice.dynamic" />
+      <recent name="com.joyner.algorithm.mashibing_primary.dynamic" />
+      <recent name="com.joyner.algorithm.mashibing_primary.greedy" />
       <recent name="com.joyner.algorithm.leetcode_practice" />
+      <recent name="com.joyner.algorithm.mashibing_primary.graph" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gitSpace\mashibing_project\algorithm_learning\src\main\java\com\joyner\algorithm\mashibing_primary\dynamic" />
+      <recent name="D:\gitSpace\mashibing_project\algorithm_learning\src\main\java\com\joyner\algorithm\mashibing_primary\greedy" />
+      <recent name="D:\gitSpace\mashibing_project\algorithm_learning\src\main\java\com\joyner\algorithm\mashibing_primary\tree" />
       <recent name="D:\Java\projects\algorithm_learning\src\main\resources" />
     </key>
   </component>
@@ -317,64 +469,88 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TwoLinkedIntersectList">
-    <configuration name="CopyListWithRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.joyner.algorithm.mashibing_primary.linked_list_practice.CopyListWithRandom" />
+  <component name="RunManager" selected="Application.MyArrayList">
+    <configuration name="Code02_AllLessNumSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.joyner.algorithm.mashibing_master.day01.Code02_AllLessNumSubArray" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.joyner.algorithm.mashibing_primary.linked_list_practice.*" />
+          <option name="PATTERN" value="com.joyner.algorithm.mashibing_master.day01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="IsPalindromeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.joyner.algorithm.mashibing_primary.linked_list_practice.IsPalindromeList" />
+    <configuration name="Code02_AllLessNumSubArrayTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.joyner.algorithm.mashibing_master.day01.Code02_AllLessNumSubArrayTest" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.joyner.algorithm.mashibing_primary.linked_list_practice.*" />
+          <option name="PATTERN" value="com.joyner.algorithm.mashibing_master.day01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="LinkListMid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.joyner.algorithm.mashibing_primary.linked_list_practice.LinkListMid" />
+    <configuration name="MyArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.joyner.algorithm.mycollection.MyArrayList" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.joyner.algorithm.mashibing_primary.linked_list_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="SmallerEqualBigger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.joyner.algorithm.mashibing_primary.linked_list_practice.SmallerEqualBigger" />
-      <module name="algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.joyner.algorithm.mashibing_primary.linked_list_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="TwoLinkedIntersectList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.joyner.algorithm.mashibing_primary.linked_list_practice.TwoLinkedIntersectList" />
-      <module name="algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.joyner.algorithm.mashibing_primary.linked_list_practice.*" />
+          <option name="PATTERN" value="com.joyner.algorithm.mycollection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="RandomRelation.testMathRandom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.joyner.algorithm.mashibing_primary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.joyner.algorithm.mashibing_primary" />
+      <option name="MAIN_CLASS_NAME" value="com.joyner.algorithm.mashibing_primary.RandomRelation" />
+      <option name="METHOD_NAME" value="testMathRandom" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="RandomRelation.testMathRandomCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.joyner.algorithm.mashibing_primary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.joyner.algorithm.mashibing_primary" />
+      <option name="MAIN_CLASS_NAME" value="com.joyner.algorithm.mashibing_primary.RandomRelation" />
+      <option name="METHOD_NAME" value="testMathRandomCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -415,24 +591,24 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.LinkListMid" />
-      <item itemvalue="Application.IsPalindromeList" />
-      <item itemvalue="Application.SmallerEqualBigger" />
-      <item itemvalue="Application.CopyListWithRandom" />
-      <item itemvalue="Application.TwoLinkedIntersectList" />
+      <item itemvalue="Application.Code02_AllLessNumSubArrayTest" />
+      <item itemvalue="Application.Code02_AllLessNumSubArray" />
+      <item itemvalue="JUnit.RandomRelation.testMathRandom" />
+      <item itemvalue="JUnit.RandomRelation.testMathRandomCount" />
+      <item itemvalue="Application.MyArrayList" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TwoLinkedIntersectList" />
-        <item itemvalue="Application.CopyListWithRandom" />
-        <item itemvalue="Application.SmallerEqualBigger" />
-        <item itemvalue="Application.IsPalindromeList" />
-        <item itemvalue="Application.LinkListMid" />
+        <item itemvalue="Application.MyArrayList" />
+        <item itemvalue="JUnit.RandomRelation.testMathRandomCount" />
+        <item itemvalue="JUnit.RandomRelation.testMathRandom" />
+        <item itemvalue="Application.Code02_AllLessNumSubArrayTest" />
+        <item itemvalue="Application.Code02_AllLessNumSubArray" />
       </list>
     </recent_temporary>
   </component>
   <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",SHOW_NON_PUBLIC" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INTERFACES,SHOW_PROPERTIES,SHOW_NON_PUBLIC" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -566,6 +742,98 @@
       <workItem from="1622429197434" duration="15000" />
       <workItem from="1622466945904" duration="911000" />
       <workItem from="1622506847125" duration="5462000" />
+      <workItem from="1622681246199" duration="5107000" />
+      <workItem from="1622768698348" duration="5726000" />
+      <workItem from="1622853808274" duration="602000" />
+      <workItem from="1622856292197" duration="2488000" />
+      <workItem from="1622858844399" duration="292000" />
+      <workItem from="1623027250204" duration="4482000" />
+      <workItem from="1623283807418" duration="7098000" />
+      <workItem from="1623373697830" duration="3518000" />
+      <workItem from="1623717163825" duration="5094000" />
+      <workItem from="1623802905098" duration="6610000" />
+      <workItem from="1623809663673" duration="22000" />
+      <workItem from="1623890660456" duration="4002000" />
+      <workItem from="1623974074028" duration="6924000" />
+      <workItem from="1624063675829" duration="4029000" />
+      <workItem from="1624236438246" duration="4089000" />
+      <workItem from="1624326473130" duration="458000" />
+      <workItem from="1624327228746" duration="995000" />
+      <workItem from="1624368983374" duration="469000" />
+      <workItem from="1624411372592" duration="2935000" />
+      <workItem from="1624499206320" duration="1634000" />
+      <workItem from="1624841877508" duration="3168000" />
+      <workItem from="1624927783269" duration="4078000" />
+      <workItem from="1625013211046" duration="3874000" />
+      <workItem from="1625187346580" duration="4571000" />
+      <workItem from="1625227562682" duration="2134000" />
+      <workItem from="1625275705280" duration="2076000" />
+      <workItem from="1625444854136" duration="3678000" />
+      <workItem from="1626050606929" duration="2083000" />
+      <workItem from="1626138545252" duration="3394000" />
+      <workItem from="1626223826877" duration="640000" />
+      <workItem from="1626744560055" duration="2129000" />
+      <workItem from="1626915243260" duration="4049000" />
+      <workItem from="1627002477948" duration="4204000" />
+      <workItem from="1627434368799" duration="3644000" />
+      <workItem from="1627453927944" duration="1189000" />
+      <workItem from="1627468732403" duration="10000" />
+      <workItem from="1627606580750" duration="7446000" />
+      <workItem from="1627692167261" duration="3243000" />
+      <workItem from="1628128161373" duration="1975000" />
+      <workItem from="1628178041159" duration="79000" />
+      <workItem from="1628211939935" duration="5000" />
+      <workItem from="1628212218411" duration="1395000" />
+      <workItem from="1628470046116" duration="4880000" />
+      <workItem from="1628555844282" duration="4600000" />
+      <workItem from="1628645986773" duration="2827000" />
+      <workItem from="1628669360752" duration="5318000" />
+      <workItem from="1628735072576" duration="1198000" />
+      <workItem from="1628817557555" duration="601000" />
+      <workItem from="1628903181801" duration="8454000" />
+      <workItem from="1629079510559" duration="167000" />
+      <workItem from="1629161633455" duration="5638000" />
+      <workItem from="1629334839750" duration="5887000" />
+      <workItem from="1629353102223" duration="141000" />
+      <workItem from="1629422052707" duration="1553000" />
+      <workItem from="1629685247204" duration="431000" />
+      <workItem from="1629768418083" duration="3202000" />
+      <workItem from="1629852876757" duration="5382000" />
+      <workItem from="1629866939757" duration="1614000" />
+      <workItem from="1630283941784" duration="5686000" />
+      <workItem from="1630371258386" duration="4113000" />
+      <workItem from="1630457772852" duration="8480000" />
+      <workItem from="1630545780642" duration="12000" />
+      <workItem from="1630631824640" duration="7978000" />
+      <workItem from="1630670056999" duration="135000" />
+      <workItem from="1631149139351" duration="3100000" />
+      <workItem from="1631235256141" duration="3285000" />
+      <workItem from="1631252966111" duration="1725000" />
+      <workItem from="1631267607735" duration="3755000" />
+      <workItem from="1631494649933" duration="2840000" />
+      <workItem from="1631595140020" duration="1934000" />
+      <workItem from="1631600741229" duration="1613000" />
+      <workItem from="1631667747369" duration="1998000" />
+      <workItem from="1631701170503" duration="649000" />
+      <workItem from="1631753806941" duration="11000" />
+      <workItem from="1631789269853" duration="633000" />
+      <workItem from="1631840357619" duration="3358000" />
+      <workItem from="1631843792920" duration="392000" />
+      <workItem from="1631844195308" duration="1430000" />
+      <workItem from="1632274372460" duration="14910000" />
+      <workItem from="1632359125398" duration="10407000" />
+      <workItem from="1632444974609" duration="13024000" />
+      <workItem from="1632620236908" duration="587000" />
+      <workItem from="1632705996662" duration="127000" />
+      <workItem from="1632727548538" duration="1806000" />
+      <workItem from="1632792371342" duration="17549000" />
+      <workItem from="1632905710587" duration="4754000" />
+      <workItem from="1632971476889" duration="13321000" />
+      <workItem from="1633655865202" duration="2374000" />
+      <workItem from="1633688066056" duration="622000" />
+      <workItem from="1633742162798" duration="7355000" />
+      <workItem from="1633914947404" duration="1862000" />
+      <workItem from="1634693080721" duration="719000" />
     </task>
     <task id="LOCAL-00001" summary="[*]提交LevenShtein edit distance algorithm">
       <created>1535100587469</created>
@@ -578,39 +846,39 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BinarySearch_testMostLeftNoLessNumIndex - 2021.04.02 at 14h 02m 55s.xml">
-      <configuration name="BinarySearch.testMostLeftNoLessNumIndex" configurationId="JUnit" />
+    <history-entry file="RandomRelation_testMathRandom - 2021.10.09 at 09h 19m 37s.xml">
+      <configuration name="RandomRelation.testMathRandom" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearch_testMostLeftNoLessNumIndex - 2021.04.02 at 14h 05m 04s.xml">
-      <configuration name="BinarySearch.testMostLeftNoLessNumIndex" configurationId="JUnit" />
+    <history-entry file="RandomRelation_testMathRandom - 2021.10.09 at 09h 25m 58s.xml">
+      <configuration name="RandomRelation.testMathRandom" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearch_testMostLeftNoLessNumIndex - 2021.04.02 at 14h 05m 30s.xml">
-      <configuration name="BinarySearch.testMostLeftNoLessNumIndex" configurationId="JUnit" />
+    <history-entry file="RandomRelation_testMathRandom - 2021.10.09 at 09h 29m 02s.xml">
+      <configuration name="RandomRelation.testMathRandom" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearch_testMostLeftNoLessNumIndex - 2021.04.02 at 14h 05m 43s.xml">
-      <configuration name="BinarySearch.testMostLeftNoLessNumIndex" configurationId="JUnit" />
+    <history-entry file="RandomRelation_testMathRandom - 2021.10.09 at 09h 29m 19s.xml">
+      <configuration name="RandomRelation.testMathRandom" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearch_testMostRightLessNumIndex - 2021.04.02 at 17h 34m 38s.xml">
-      <configuration name="BinarySearch.testMostRightLessNumIndex" configurationId="JUnit" />
+    <history-entry file="RandomRelation_testMathRandom - 2021.10.09 at 09h 29m 23s.xml">
+      <configuration name="RandomRelation.testMathRandom" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearch_testMostRightLessNumIndex - 2021.04.02 at 17h 35m 09s.xml">
-      <configuration name="BinarySearch.testMostRightLessNumIndex" configurationId="JUnit" />
+    <history-entry file="RandomRelation_testMathRandom - 2021.10.09 at 09h 29m 28s.xml">
+      <configuration name="RandomRelation.testMathRandom" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearch_testMostRightLessNumIndex - 2021.04.02 at 17h 35m 27s.xml">
-      <configuration name="BinarySearch.testMostRightLessNumIndex" configurationId="JUnit" />
+    <history-entry file="RandomRelation_testMathRandom - 2021.10.09 at 09h 29m 31s.xml">
+      <configuration name="RandomRelation.testMathRandom" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearch_testFind - 2021.04.06 at 09h 39m 46s.xml">
-      <configuration name="BinarySearch.testFind" configurationId="JUnit" />
+    <history-entry file="RandomRelation_testMathRandom - 2021.10.09 at 09h 29m 35s.xml">
+      <configuration name="RandomRelation.testMathRandom" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearch_testFind - 2021.04.06 at 09h 40m 48s.xml">
-      <configuration name="BinarySearch.testFind" configurationId="JUnit" />
+    <history-entry file="RandomRelation_testMathRandomCount - 2021.10.09 at 09h 59m 55s.xml">
+      <configuration name="RandomRelation.testMathRandomCount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BinarySearch_testFind - 2021.04.06 at 09h 41m 17s.xml">
-      <configuration name="BinarySearch.testFind" configurationId="JUnit" />
+    <history-entry file="RandomRelation_testMathRandomCount - 2021.10.09 at 10h 00m 19s.xml">
+      <configuration name="RandomRelation.testMathRandomCount" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="495888000" />
+    <option name="totallyTimeSpent" value="815963000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -622,88 +890,49 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-5" y="-5" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" weight="0.32983023" />
       <window_info anchor="right" id="Palette" order="6" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5004042" side_tool="true" weight="0.3297491" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32952496" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.16257995" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="IvyIDEA" order="13" />
+      <window_info anchor="bottom" id="IvyIDEA" order="13" weight="0.32980973" />
       <window_info anchor="right" id="Mongo Explorer" order="7" />
+      <window_info anchor="bottom" id="MyBatis Log" order="15" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
       <window_info anchor="bottom" id="Statistic" order="14" weight="0.32980973" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="ASM" order="8" />
-      <window_info id="Structure" order="6" sideWeight="0.71428573" side_tool="true" weight="0.32170776" />
+      <window_info id="Structure" order="6" sideWeight="0.7241015" side_tool="true" weight="0.20469083" />
       <window_info anchor="right" id="Ant Build" order="10" weight="0.25" />
       <window_info id="UI Designer" order="1" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.5443975" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.25581396" />
       <window_info anchor="bottom" id="TODO" order="11" weight="0.32879046" />
-      <window_info anchor="bottom" id="Messages" order="4" sideWeight="0.49636218" weight="0.32875264" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.4995958" weight="0.3372093" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.3297491" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" sideWeight="0.4995958" visible="true" weight="0.20930232" />
       <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.2857143" weight="0.29371002" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.27589852" visible="true" weight="0.20469083" />
       <window_info anchor="bottom" id="JProfiler" order="12" weight="0.21564482" />
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.7120954" side_tool="true" weight="0.3433554" />
-      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.32952496" />
+      <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info active="true" anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="15" side_tool="true" visible="true" weight="0.108742006" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="15" side_tool="true" visible="true" weight="0.2249467" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="right" id="Mybatis datasource" order="12" show_stripe_button="false" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="14" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Messages" order="4" sideWeight="0.49636218" weight="0.32875264" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.32980973" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="9" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Codota" order="13" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.32942432" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" id="Ant Build" order="10" weight="0.25" />
-      <window_info anchor="right" id="Codota" order="13" />
-      <window_info id="Designer" order="0" />
-      <window_info anchor="right" id="PlantUML" order="3" weight="0.32983023" />
-      <window_info anchor="bottom" id="Messages" order="4" sideWeight="0.49636218" weight="0.32875264" />
-      <window_info anchor="right" id="Palette" order="6" />
-      <window_info id="Image Layers" order="4" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.4995958" weight="0.20930232" />
-      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.32952496" />
-      <window_info id="UI Designer" order="1" />
-      <window_info id="Favorites" order="3" sideWeight="0.7120954" side_tool="true" weight="0.3433554" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="9" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5004042" side_tool="true" weight="0.3297491" />
-      <window_info anchor="bottom" id="Statistic" order="14" weight="0.32980973" />
-      <window_info anchor="right" id="Mongo Explorer" order="7" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="14" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.2857143" visible="true" weight="0.29371002" />
-      <window_info anchor="right" id="Mybatis datasource" order="12" show_stripe_button="false" side_tool="true" />
-      <window_info anchor="bottom" id="JProfiler" order="12" weight="0.21564482" />
-      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="3" weight="0.3297491" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32952496" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
-      <window_info anchor="right" id="ASM" order="8" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="bottom" id="Message" order="5" />
-      <window_info anchor="bottom" id="TODO" order="11" weight="0.32879046" />
-      <window_info anchor="right" id="Palette&#9;" order="1" />
-      <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info id="Structure" order="6" sideWeight="0.71428573" side_tool="true" weight="0.32170776" />
-      <window_info active="true" anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="15" side_tool="true" visible="true" weight="0.108742006" />
-      <window_info active="true" anchor="bottom" id="Debug" order="8" visible="true" weight="0.5443975" />
-      <window_info anchor="bottom" id="IvyIDEA" order="13" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1240,281 +1469,538 @@
           <properties />
           <option name="timeStamp" value="387" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/tree/TraversingTree.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/tree/TraversingTree.java</url>
+          <line>129</line>
+          <properties />
+          <option name="timeStamp" value="389" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/tree/IsSearchTree.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="407" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/tree/MaxSubBSTHead.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="430" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/tree/MaxSubBSTHead.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="431" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/greedy/Light.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="439" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/PriorityQueue.java</url>
+          <line>291</line>
+          <properties />
+          <option name="timeStamp" value="475" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/ReverseStackUsingRecursive.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="479" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code02_PrintAllSubsquences.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="483" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/PrintAllPermutations.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="487" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/PrintAllPermutations.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="488" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code07_Knapsack.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="490" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code08_CardsInLine.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="491" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code08_CardsInLine.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="492" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code09_NQueens.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="494" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code09_NQueens_V2.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="499" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/RobotWalk_V2.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="501" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code02_StickersToSpellWord.java</url>
+          <line>132</line>
+          <properties />
+          <option name="timeStamp" value="524" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/CellDemo.java</url>
+          <line>212</line>
+          <properties />
+          <option name="timeStamp" value="555" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code02_StickersToSpellWord.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="557" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code02_StickersToSpellWord.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="558" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code02_StickersToSpellWord.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="559" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code02_StickersToSpellWord.java</url>
+          <line>86</line>
+          <properties />
+          <option name="timeStamp" value="562" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code06_Coffee.java</url>
+          <line>99</line>
+          <properties />
+          <option name="timeStamp" value="564" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mycollection/MyMap.java</url>
+          <line>231</line>
+          <properties />
+          <option name="timeStamp" value="573" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mycollection/MyMap.java</url>
+          <line>233</line>
+          <properties />
+          <option name="timeStamp" value="575" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="388" />
+      <option name="time" value="585" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="newHead" language="JAVA" />
-        <watch expression="head" language="JAVA" />
+        <watch expression="arr[maxDeque.peekFirst()]" language="JAVA" />
+        <watch expression="arr[minDeque.peekFirst()" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>i == 5</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>L == 1 &amp;&amp; R == 3</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
     <expressions id="watch">
       <expression>
-        <expression-string>head</expression-string>
+        <expression-string>arr[minDeque.peekFirst()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>newHead</expression-string>
+        <expression-string>arr[maxDeque.peekFirst()]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>pivot</expression-string>
+        <expression-string>map.containsKey(&quot;tezfkznpnavhlwuxuirv&quot;)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>tempHead.val</expression-string>
+        <expression-string>map.containsKey(&quot;&quot;)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>nextNode.val</expression-string>
+        <expression-string>my.entries</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>node.val</expression-string>
+        <expression-string>my</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>arr[i]</expression-string>
+        <expression-string>vo</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>poll.c</expression-string>
+        <expression-string>r</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>root.nexts.get(cVal)</expression-string>
+        <expression-string>s.length() - 1</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>root.nexts.get(115)</expression-string>
+        <expression-string>Integer.toBinaryString(mostRightOne)</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Vector.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/greedy/LessMoneySplitGoldV2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8908">
-          <caret line="569" column="5" selection-start-line="569" selection-start-column="5" selection-end-line="569" selection-end-column="5" />
+        <state relative-caret-position="476">
+          <caret line="28" column="6" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/MyQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code09_NQueens_V2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code09_NQueens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="35" column="54" lean-forward="true" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/greedy/LessMoneySplitGold.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="859">
+          <caret line="76" column="36" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/ReverseBits_190.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="28" column="19" lean-forward="true" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code08_CardsInLineMemorySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code08_CardsInLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code08_CardsInLineDpWays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/RobotWalk_V2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="81" column="5" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32062">
+          <caret line="1957" column="18" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/dynamic/LongestPalindromicSubstring_5_dp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="72" column="5" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/RobotWalk_dpways.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code01_RobotWalk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="5163" column="25" selection-start-line="5163" selection-start-column="25" selection-end-line="5163" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="647">
+          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/CharSequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <caret line="46" column="55" selection-start-line="46" selection-start-column="55" selection-end-line="46" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/ReverseDoubleLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/CellDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1666">
-          <caret line="102" column="37" selection-start-line="102" selection-start-column="37" selection-end-line="102" selection-end-column="37" />
+        <state relative-caret-position="409">
+          <caret line="236" lean-forward="true" selection-start-line="236" selection-end-line="236" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/BinarySearchTree.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/dynamic/LongestPalindromicSubstring_5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1547">
-          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        <state relative-caret-position="3196">
+          <caret line="186" lean-forward="true" selection-start-line="186" selection-end-line="186" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/BinaryTreeLevelOrderTraversal_107.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code02_StickersToSpellWord.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="64" selection-start-line="32" selection-start-column="4" selection-end-line="64" />
+        <state relative-caret-position="528">
+          <caret line="135" selection-start-line="135" selection-end-line="135" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/BalancedBinaryTree.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/recursion/RecursionDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        <state relative-caret-position="-611">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/common/util/collection/ListUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/search/IBusinessProcess.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="5" selection-start-line="21" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/PathSum_112.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/search/KMP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+        <state relative-caret-position="3638">
+          <caret line="214" column="42" selection-start-line="214" selection-start-column="42" selection-end-line="214" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/CompareTwoNums.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/PathSumII_113.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/InsertSort_06.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/BinaryTreePreorderTraversal_144.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1326">
-          <caret line="83" column="1" selection-start-line="83" selection-start-column="1" selection-end-line="83" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2686">
-          <caret line="191" selection-start-line="191" selection-end-line="191" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/MyQueueV2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/MyRingBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/QueriesOnNumberOfPointsInsideACircle_1828.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/FindArrOddNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1462">
-          <caret line="86" selection-start-line="86" selection-end-line="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/MyStackV3ByQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/MyQueueV3ByStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1241">
-          <caret line="76" column="49" selection-start-line="76" selection-start-column="49" selection-end-line="76" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/SingleNumber_136.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="45" column="34" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/MergeSortV2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="18" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/MergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="60" column="36" selection-start-line="60" selection-start-column="36" selection-end-line="60" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/SmallSum.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/LongestCommonPrefix_14.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/LessNumberPartition.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/Permutations_46.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="102">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/RandomBox.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/Permutations_dfs_46.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        <state relative-caret-position="1088">
+          <caret line="69" column="55" selection-start-line="69" selection-start-column="55" selection-end-line="69" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/MySmallHeap.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/Permutations_dfsV3_46.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1377">
-          <caret line="85" column="103" selection-start-line="85" selection-start-column="103" selection-end-line="85" selection-end-column="103" />
+        <state relative-caret-position="935">
+          <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/MyBigHeap.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/Permutations_bfs_46.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+        <state relative-caret-position="629">
+          <caret line="40" column="44" selection-start-line="40" selection-start-column="44" selection-end-line="40" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/MyCompleteTwoForkTree.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/Permutations_dfsv2_46.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        <state relative-caret-position="867">
+          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/QuikSort.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/LongCommonSubStr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        <state relative-caret-position="748">
+          <caret line="44" column="33" selection-start-line="44" selection-start-column="33" selection-end-line="44" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/LessAndEqualAandLargeAreaPartition.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code06_ConvertToLetterString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="48" column="9" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+        <state relative-caret-position="697">
+          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code05_LongCommonSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8908">
+          <caret line="565" column="20" selection-start-line="565" selection-start-column="20" selection-end-line="565" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16677">
+          <caret line="1048" column="20" selection-start-line="1048" selection-start-column="20" selection-end-line="1048" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mycollection/MyMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2703">
+          <caret line="184" column="32" selection-start-line="184" selection-start-column="32" selection-end-line="184" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_trainingcamp001/day01/Code02_AllLessNumSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="17" selection-start-line="24" selection-start-column="17" selection-end-line="24" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_trainingcamp001/day01/Code01_SlidingWindowMaxArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_trainingcamp001/day01/SlidingWindowUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="98" column="22" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/dynamic/Code06_Coffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1768">
+          <caret line="106" column="17" selection-start-line="106" selection-start-column="17" selection-end-line="106" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/linked_list_practice/CopyListWithRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/leetcode_practice/SuperWashingMachines_517.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Deque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5083">
+          <caret line="332" column="6" selection-start-line="332" selection-start-column="6" selection-end-line="332" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -1522,161 +2008,96 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="12155">
           <caret line="771" column="25" selection-start-line="771" selection-start-column="25" selection-end-line="771" selection-end-column="25" />
+          <folding>
+            <element signature="e#32010#32011#0" expanded="true" />
+            <element signature="e#32095#32096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_master/day01/Code01_SlidingWindowMaxArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_master/day01/Code02_AllLessNumSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1802">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_master/day01/Code02_AllLessNumSubArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="85" column="35" selection-start-line="85" selection-start-column="35" selection-end-line="85" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/RandomRelation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2771">
+          <caret line="167" selection-start-line="167" selection-end-line="167" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mycollection/MyArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19992">
+          <caret line="1241" column="29" selection-start-line="1241" selection-start-column="29" selection-end-line="1241" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6252#6253#0" expanded="true" />
+            <element signature="e#6320#6321#0" expanded="true" />
+            <element signature="e#10189#10190#0" expanded="true" />
+            <element signature="e#10216#10217#0" expanded="true" />
+            <element signature="e#15414#15415#0" expanded="true" />
+            <element signature="e#15459#15460#0" expanded="true" />
+            <element signature="e#24549#24550#0" expanded="true" />
+            <element signature="e#24603#24604#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="65" column="5" selection-start-line="62" selection-start-column="59" selection-end-line="65" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="590" column="12" selection-start-line="590" selection-start-column="12" selection-end-line="590" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/RandomGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4233">
-          <caret line="255" column="35" selection-start-line="255" selection-start-column="35" selection-end-line="255" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar!/java/lang/Character.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Character.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="53" column="66" selection-start-line="53" selection-start-column="66" selection-end-line="53" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/sort/TrieTreeForTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="70" column="21" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/sort/TrieTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2516">
-          <caret line="152" selection-start-line="152" selection-end-line="152" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/sort/TrieTreeV2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1564">
-          <caret line="98" selection-start-line="98" selection-end-line="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/sort/Code04_SortArrayDistanceLessK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="94" column="32" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/sort/CountSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/sort/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/linked_list_practice.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/sort/RadixSortV2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1139">
-          <caret line="70" column="7" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/search/vo/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/common/util/collection/ArrUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/sort/RadixSortV1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/linked_list_practice/LinkListMid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2057">
-          <caret line="121" column="49" selection-start-line="121" selection-start-column="49" selection-end-line="121" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/linked_list_practice/IsPalindromeList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1938">
-          <caret line="116" column="37" selection-start-line="113" selection-start-column="6" selection-end-line="116" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/linked_list_practice/CopyListWithRandom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/linked_list_practice/SmallerEqualBigger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2567">
-          <caret line="154" selection-start-line="146" selection-start-column="5" selection-end-line="154" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/vo/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/joyner/algorithm/mashibing_primary/linked_list_practice/TwoLinkedIntersectList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2021">
-          <caret line="263" column="29" lean-forward="true" selection-start-line="263" selection-start-column="29" selection-end-line="263" selection-end-column="29" />
+        <state relative-caret-position="706">
+          <caret line="254" column="32" selection-start-line="254" selection-start-column="32" selection-end-line="254" selection-end-column="32" />
         </state>
       </provider>
     </entry>

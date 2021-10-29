@@ -28,6 +28,16 @@ public class ArrUtils {
 
     }
 
+    public static <T>void commonPrintArr(T[] arr) {
+        System.out.print("[");
+        for (int i = 0; i < arr.length; i++) {
+            String comma = i == arr.length - 1 ? "" : ",";
+            System.out.print(arr[i] + comma);
+        }
+        System.out.print("]");
+        System.out.println();
+    }
+
 
     public static int[] arrCopy(int[] arr) {
         int[] newArr = new int[arr.length];
@@ -58,6 +68,21 @@ public class ArrUtils {
      */
     public static void swap(int[] arr, int i, int j) {
         int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+    }
+
+    /**
+     * 把数组i和j位置互换
+     */
+    public static <T>void commonSwap(T[] arr, int i, int j) {
+        T temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+    }
+
+    public static void swapCharArr(char[] arr, int i, int j) {
+        char temp = arr[i];
         arr[i] = arr[j];
         arr[j] = temp;
     }

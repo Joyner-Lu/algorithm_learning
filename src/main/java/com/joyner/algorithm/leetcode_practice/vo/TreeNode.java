@@ -1,5 +1,7 @@
 package com.joyner.algorithm.leetcode_practice.vo;
 
+import org.apache.commons.lang3.StringUtils;
+
 /**
  * <pre>
  *
@@ -22,6 +24,23 @@ public class TreeNode {
 
     public TreeNode(int x) {
         val = x;
+    }
+
+    public TreeNode(String x) {
+        String trim = x.trim();
+        this.val = Integer.valueOf(trim);
+    }
+
+    public static TreeNode build(String x) {
+        if (StringUtils.isEmpty(x.trim())) {
+            return null;
+        }
+
+        if ("null".equals(x.trim())) {
+            return null;
+        }
+
+        return new TreeNode(x);
     }
 
     @Override

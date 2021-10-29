@@ -4,6 +4,7 @@ import com.joyner.algorithm.leetcode_practice.vo.ListNode;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
+import org.bouncycastle.jce.provider.BouncyCastleProvider;
 
 import javax.swing.plaf.metal.MetalBorders;
 import java.util.ArrayList;
@@ -57,8 +58,7 @@ public class AppTest
 
 
     public static void main(String[] args) throws InterruptedException {
-        HashMap map = new HashMap();
-        map.put("test", "ok");
+        new BouncyCastleProvider();
     }
 
 }

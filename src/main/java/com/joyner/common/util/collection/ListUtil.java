@@ -42,7 +42,31 @@ public class ListUtil {
         System.out.println("]");
     }
 
+    public  static void printStr(List<List<String>> target) {
+        System.out.println("[");
+        for (int i = 0; i < target.size(); i++) {
+            List secondList = target.get(i);
+            int secondLen = secondList.size();
+            System.out.print("[");
+            for (int j = 0; j < secondLen; j++) {
+                Object val = secondList.get(j);
+                System.out.print(val + ",");
+            }
+            System.out.println("]");
+        }
+        System.out.println("]");
+    }
+
     public  static void printV2(List<Integer> target) {
+        System.out.print("[");
+        for (int i = 0; i < target.size(); i++) {
+            Object val = target.get(i);
+            System.out.print(val + ",");
+        }
+        System.out.println("]");
+    }
+
+    public  static <T>void commonPrint(List<T> target) {
         System.out.print("[");
         for (int i = 0; i < target.size(); i++) {
             Object val = target.get(i);

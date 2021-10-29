@@ -35,7 +35,12 @@ package com.joyner.algorithm.leetcode_practice;
  */
 public class ReverseBits_190 {
 
-    // you need treat n as an unsigned value
+    /**
+     * 一直用1去试探第一位即可
+     *
+     * @param n
+     * @return
+     */
     public int reverseBits(int n) {
         int count = 0;
         int result = 0;
