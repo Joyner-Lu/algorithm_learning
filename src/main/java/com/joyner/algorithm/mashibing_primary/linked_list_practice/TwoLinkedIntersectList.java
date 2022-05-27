@@ -7,7 +7,7 @@ import com.joyner.algorithm.mashibing_primary.vo.Node;
  * 给定两个可能有环也可能无环的单链表，头节点head1和head2。请实现一个函数，如果两个链表相交，请返回相交的 第一个节点。如果不相交，返回null
  * </pre>
  *
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>

@@ -8,7 +8,7 @@ import com.joyner.algorithm.leetcode_practice.vo.TreeNode;
  * 如果这个课是二叉搜素树，则返回1，如果不是，则返回所有二叉搜索树的个数。
  * </pre>
  *
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>

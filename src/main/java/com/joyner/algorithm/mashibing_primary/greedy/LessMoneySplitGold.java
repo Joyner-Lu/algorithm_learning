@@ -14,7 +14,7 @@ import java.util.PriorityQueue;
  * 输入一个数组，返回分割的最小代价。
  * </pre>
  *
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>

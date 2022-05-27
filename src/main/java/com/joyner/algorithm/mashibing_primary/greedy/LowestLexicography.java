@@ -18,7 +18,7 @@ import java.util.List;
  * 字符串认为就是k进制的整数，例如 a-z，26进制,如果长度一样，则比数值。长度不一样，则比高位。
  * </pre>
  *
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>

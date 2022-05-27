@@ -7,7 +7,7 @@ import javax.management.relation.RoleUnresolved;
  * 使用数组实现的队列，且限制容量
  * </pre>
  *
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>

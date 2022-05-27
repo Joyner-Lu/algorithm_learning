@@ -18,7 +18,7 @@ import java.util.List;
  * 给定一棵多叉树的头节点boss，请返回派对的最大快乐值。
  * </pre>
  *
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>

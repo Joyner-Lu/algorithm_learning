@@ -9,7 +9,7 @@ import sun.reflect.generics.tree.Tree;
  * 返回a和b的最低公共祖先
  * </pre>
  *
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>

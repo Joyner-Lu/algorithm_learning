@@ -10,7 +10,7 @@ import java.util.List;
  * 将单向链表按某值划分成左边小、中间相等、右边大的形式
  * </pre>
  *
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>

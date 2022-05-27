@@ -7,7 +7,7 @@ package com.joyner.algorithm.mashibing_primary;
  * 备注：两个相同的异或为0，这是本质。
  * </pre>
  *
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>

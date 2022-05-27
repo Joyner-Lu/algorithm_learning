@@ -11,7 +11,7 @@ import java.util.Arrays;
  * 一个无序的数组，如果排好序之后，每个元素移动的距离都不会超过k,请选择一个合适的排序算法对其进行排序
  * </pre>
  *
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>

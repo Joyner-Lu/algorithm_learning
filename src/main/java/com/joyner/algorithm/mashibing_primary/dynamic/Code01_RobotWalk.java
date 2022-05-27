@@ -11,7 +11,7 @@ package com.joyner.algorithm.mashibing_primary.dynamic;
  * 给定四个参数 N、M、K、P，返回方法数。
  * </pre>
  *
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>

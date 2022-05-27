@@ -13,7 +13,7 @@ import java.util.HashSet;
  * 返回如果点亮str中所有需要点亮的位置，至少需要几盏灯
  * </pre>
  *
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>

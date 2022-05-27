@@ -12,7 +12,7 @@ import org.apache.commons.lang3.StringUtils;
  * 注意如果字符串包含0，则不能转换
  * </pre>
  *
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>

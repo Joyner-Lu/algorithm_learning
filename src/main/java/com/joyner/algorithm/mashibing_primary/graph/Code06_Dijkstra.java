@@ -15,7 +15,7 @@ import java.util.Set;
  * 4）源点到所有的点记录如果都被拿过一遍，过程停止，最小距离表得到了
  * </pre>
  *
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>

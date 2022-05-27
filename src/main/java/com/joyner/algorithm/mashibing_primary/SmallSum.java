@@ -14,7 +14,7 @@ import com.joyner.common.util.collection.ArrUtils;
  * 小和small_sum = 2 + 2 + 3 + 2 + 3 + 4 + 1 = 17
  * </pre>
  *
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>

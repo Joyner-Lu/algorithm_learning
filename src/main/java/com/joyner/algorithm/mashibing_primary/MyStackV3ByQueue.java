@@ -9,7 +9,7 @@ import java.util.Queue;
  *     要弹出的时候，先导入到help,直到剩最后一个。然后help变queue，queue变help
  * </pre>
  *
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>

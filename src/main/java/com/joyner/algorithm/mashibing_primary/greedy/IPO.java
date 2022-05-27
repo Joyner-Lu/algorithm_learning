@@ -11,7 +11,7 @@ package com.joyner.algorithm.mashibing_primary.greedy;
  * 输出：你最后获得的最大钱数。
  * </pre>
  *
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>

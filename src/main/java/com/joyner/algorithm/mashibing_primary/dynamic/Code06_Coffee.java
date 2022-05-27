@@ -18,7 +18,7 @@ package com.joyner.algorithm.mashibing_primary.dynamic;
  * 那么让15点前面的咖啡杯自己挥发干净，15点喝完的那杯洗，也就是 15 + 3，18点
  * </pre>
  *
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>

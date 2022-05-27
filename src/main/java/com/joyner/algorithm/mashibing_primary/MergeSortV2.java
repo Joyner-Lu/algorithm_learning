@@ -9,7 +9,7 @@ import com.joyner.common.util.collection.ArrUtils;
  *     左group和右group两两merge
  * </pre>
  *
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>

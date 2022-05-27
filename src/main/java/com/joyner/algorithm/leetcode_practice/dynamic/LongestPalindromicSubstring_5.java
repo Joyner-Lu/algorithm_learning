@@ -8,7 +8,7 @@ import java.util.Map;
  * 给你一个字符串 s，找到 s 中最长的回文子串。
  * </pre>
  *"aacabdkacaa"  "aca"
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>

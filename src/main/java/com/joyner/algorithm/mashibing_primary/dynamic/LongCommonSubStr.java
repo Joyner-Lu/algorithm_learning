@@ -5,7 +5,7 @@ package com.joyner.algorithm.mashibing_primary.dynamic;
  * 求两个字符串的最长公共子序列
  * </pre>
  *
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>

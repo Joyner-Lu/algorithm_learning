@@ -12,7 +12,7 @@ import java.util.Set;
  * 图由点集和边集组成
  * </pre>
  *
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>

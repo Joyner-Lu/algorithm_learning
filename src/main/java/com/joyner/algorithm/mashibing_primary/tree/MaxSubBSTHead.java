@@ -10,7 +10,7 @@ import com.joyner.algorithm.leetcode_practice.vo.TreeNode;
  * 注意这里的最大就是节点最多的二叉搜索树
  * </pre>
  *
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>

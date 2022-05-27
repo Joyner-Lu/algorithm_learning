@@ -8,7 +8,7 @@ import com.joyner.algorithm.leetcode_practice.vo.TreeNode;
  *     满二叉树是一类二叉树，其中每个结点恰好有 0 或 2 个子结点。
  * </pre>
  *
- * @author 陆清云 luqy@xiaopeng.com
+ * @author 陆清云 luqy
  * @version 1.00.00
  *
  * <pre>
