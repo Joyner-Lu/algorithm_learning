@@ -7,7 +7,7 @@ import com.joyner.common.util.collection.ArrUtils;
  * 将数据分为已排序区，和未排序区，初始化值，已排序区为第一个元素。
  * </pre>
  *
- * @author 陆清云 luqingyun@foresee.cn
+ * @author 陆清云 luqingyun@joyner.cn
  * @version 1.00.00
  *
  * <pre>

@@ -19,7 +19,7 @@ import java.util.Queue;
  * 4.重复。
  * </pre>
  *
- * @author 陆清云 luqingyun@foresee.cn
+ * @author 陆清云 luqingyun@joyner.cn
  * @version 1.00.00
  *
  * <pre>

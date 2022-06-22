@@ -10,7 +10,7 @@ package com.joyner.algorithm.mashibing_trainingcamp001.day01;
  * 备注：子数组是连续的
  * </pre>
  *
- * @author 陆清云 luqingyun@foresee.cn
+ * @author 陆清云 luqingyun@joyner.cn
  * @version 1.00.00
  *
  * <pre>

@@ -19,7 +19,7 @@ import java.util.List;
  *    1.3）max(左子树) < x && min(右子树) > x
  * </pre>
  *
- * @author 陆清云 luqingyun@foresee.cn
+ * @author 陆清云 luqingyun@joyner.cn
  * @version 1.00.00
  *
  * <pre>

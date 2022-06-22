@@ -12,7 +12,7 @@ package com.joyner.algorithm.leetcode_practice;
 
  * </pre>
  *
- * @author 陆清云 luqingyun@foresee.cn
+ * @author 陆清云 luqingyun@joyner.cn
  * @version 1.00.00
  *
  * <pre>

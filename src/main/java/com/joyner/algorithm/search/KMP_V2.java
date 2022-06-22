@@ -10,7 +10,7 @@ import java.util.Arrays;
  * KMP算法，模式匹配串算法
  * </pre>
  *
- * @author 陆清云 luqingyun@foresee.cn
+ * @author 陆清云 luqingyun@joyner.cn
  * @version 1.00.00
  *
  * <pre>

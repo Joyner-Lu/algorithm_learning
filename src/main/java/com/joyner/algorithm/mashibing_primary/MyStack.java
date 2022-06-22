@@ -8,7 +8,7 @@ import org.omg.CORBA.PRIVATE_MEMBER;
  * 栈实现。链表实现，头插入且头取出。
  * </pre>
  *
- * @author 陆清云 luqingyun@foresee.cn
+ * @author 陆清云 luqingyun@joyner.cn
  * @version 1.00.00
  *
  * <pre>
